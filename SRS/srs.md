@@ -49,3 +49,5 @@ El propósito de nuestro proyecto formativo es suplir y ayudar con las necesidad
 ### 1.2. Alcance
 
 El alcance del proyecto lo tenemos visionado, en la mayor parte, en, como ya dijimos en el propósito, satisfacer las necesidades de esta empresa, y a la vez, crecer nosotros como aprendices, programadores y empleados.
+
+### 1.3. Definiciones, Acrónimos, y Abreviaturas
