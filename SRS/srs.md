@@ -52,11 +52,29 @@ El alcance del proyecto lo tenemos visionado, en la mayor parte, en, como ya dij
 
 ### 1.3	Definiciones, Acrónimos, y Abreviaturas
 
+* Aplicativo web: Herramienta que los usuarios pueden utilizar accediendo a un servidor web a través de internet o de una intranet mediante un navegador.
+
+* Software: Conjunto de programas y rutinas que permiten a la computadora realizar determinadas tareas.
+
+* Marketing: Conjunto de técnicas y estudios que tienen como objeto mejorar la comercialización de un producto.
+
+* Módulo: Es una porción de un programa de ordenador que debe realizar una tarea especifica para cumplir con su función u objetivos.
+
+* SRS (Especificación de requerimientos): Es un documento cuyo propósito es proporcionar una descripción completa de un producto de software a desarrollar, incluyendo su propósito, los principales procesos de negocio que serán soportados, características, parámetros clave de rendimiento y comportamiento.
+
+* Requerimientos funcionales: Declaración de servicios que el sistema debería proporcionar, dados directamente por el dueño de la empresa, en este caso dueña.
+
+* Requerimientos no funcionales: Características que el sistema debe tener y con las que debe cumplir, principalmente basadas en el rendimiento, calidad, eficiencia, seguridad y usabilidad.
+
+
+* Requerimientos de interfaz de usuario: Son los requisitos de diseño, que van de la mano con los requerimientos funcionales. Por cada requerimiento funcional, hay uno de interfaz.
+
 ### 1.4	Referencias
 
-### 1.5	Apreciación Global
- 
 
+### 1.5	Apreciación Global
+
+El documento planea mostrar todo lo relacionado con nuestro proyecto, detallando cada uno de los puntos importantes, especificar funciones principales y una mirada a largo plazo de nuestro proyecto.
 
 ## 2.	Descripción General
 
@@ -74,10 +92,14 @@ Los usuarios que dispondrán de nuestro software son los empleados, y los gerent
 
 ### 2.4	Restricciones
 
+* La principal restricción seria la poca disponibilidad de la dueña de la empresa para con nuestro proyecto, debido a su cargo, que está muy ocupada.
+* Otra restricción seria la parte técnica, ya que todos los integrantes no contamos con el equipo necesario y dependemos mucho del equipo del centro.
+* Y la última restricción seria la parte económica, ya que hay que gastar dinero en cosas necesarias para el proyecto, movilizarse para las reuniones, tanto con el equipo como con la dueña de la empresa.
+
 ### 2.5	Atención y Dependencias
 
+Las áreas que se beneficiarán del programa serán la administrativa, la financiera y la de marketing.
 
-	
 ## 3.	Requerimientos Específicos 
 
 ### 3.1	Requerimientos Funcionales
