@@ -2,7 +2,7 @@
 
 ## Nombre del proyecto
 
-
+**Análisis, diseño, construcción e implementación de un aplicativo web para organizar, controlar y mejorar el manejo de la información en las droguerías Darcy**
 
 ## Integrantes
 
@@ -48,7 +48,7 @@ El propósito de nuestro proyecto formativo es suplir y ayudar con las necesidad
 
 ### 1.2. Alcance
 
-El alcance del proyecto lo tenemos visionado, en la mayor parte, en, como ya dijimos en el propósito, satisfacer las necesidades de esta empresa, y a la vez, crecer nosotros como aprendices, programadores y empleados.
+El proyecto que nuestro grupo planea hacer será un aplicativo web, que busque mejorar y organizar la información y ayudar con la forma de llegarle a las personas, mas enfocado en el marketing y visibilidad.
 
 ### 1.3	Definiciones, Acrónimos, y Abreviaturas
 
@@ -80,11 +80,15 @@ El documento planea mostrar todo lo relacionado con nuestro proyecto, detallando
 
 ### 2.1	Perspectivas del Producto
 
-A largo plazo, pensamos que nuestro software sea independiente, que se pueda implementar en los diferentes puntos de la empresa, sin necesidad de depender de otro producto externo, ni algún servidor externo por igual.
+A largo plazo, pensamos que nuestro software cumpla con cada una de las funciones establecidas, que cumpla con su objetivo de ayudar a esta droguería, que sea del agrado de los dueños y empleados, tanto como los clientes y personas externas.
 
 ### 2.2	Funciones del Producto
 
-Nuestro producto será un software de escritorio siendo apoyado de un aplicativo web, que nos facilite la organización, contabilidad y calidad de la empresa, y ayude a expandir el alcance de esta por medio del aplicativo web, dando mas visibilidad.
+*	Mejorar la organización de la droguería, con un inventario que detalle cada uno de los productos y sus detalles, como laboratorio de origen, funcionalidad, etc. (Módulo de inventario)
+*	Organizar la contabilidad, con cuentas, fechas de pago, ventas, y todo lo relacionado con facturación en orden. (Módulo de ventas)
+*	Manejar el registro e ingreso de clientes, empleados y encargados, con sus roles bien definidos y detallados. (Módulo de registro e ingreso de usuarios)
+*	Aumentar el alcance y/o visibilidad e impresiones de la droguería. (Módulo de marketing)
+*	Almacenar reseñas, opiniones y calificaciones de los clientes sobre el aplicativo y, principalmente, de la droguería. (Módulo de reseñas)
 
 ### 2.3	Características de Usuario
 
